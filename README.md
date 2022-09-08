@@ -1,4 +1,7 @@
-### Hi there 👋
+Rest in peace HM Queen Elizabeth II - a constant figure throughout my and many other people's lifetimes. Thank you for serving our country.
+
+My thoughts go out to the royal family.
+
 
 <!--
 **SunderB/SunderB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
