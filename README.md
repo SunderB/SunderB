@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+### 🔭 Stuff I'm working on
+* Trying out sb-atom-sonic-pi with Pulsar
+
+### Main Projects
+* [sb-atom-sonic-pi](https://github.com/sunderb/sb-atom-sonic-pi) - An Atom package to interact with Sonic Pi
+* [sonic-pi-js-api](https://github.com/sunderb/sonic-pi-js-api) - An experimental JS API for the Sonic Pi server
+
+### 🖼️ Stuff I've done
+#### Sonic Pi
+* Add a UI language option: [#2604](https://github.com/sonic-pi-net/sonic-pi/pull/2604)
+* Build system improvements: [#3132](https://github.com/sonic-pi-net/sonic-pi/pull/3132), [#3009](https://github.com/sonic-pi-net/sonic-pi/pull/3009)
+* Contributions to build documentation: [#2311](https://github.com/sonic-pi-net/sonic-pi/pull/2311)
 <!--
 **SunderB/SunderB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
