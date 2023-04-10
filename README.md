@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-### 🔭 Stuff I'm working on
-* Trying out sb-atom-sonic-pi with Pulsar
+### 🔭 I’m currently working on...
+* Staying sane and healthy
+* Studies
 
-### Main Projects
+### 🎨 Main Projects
 * [sb-atom-sonic-pi](https://github.com/sunderb/sb-atom-sonic-pi) - An Atom package to interact with Sonic Pi
 * [sonic-pi-js-api](https://github.com/sunderb/sonic-pi-js-api) - An experimental JS API for the Sonic Pi server
+* [sonic-pi-phoenix-website](https://github.com/sunderb/sonic-pi-phoenix-website) - A prototype for a new documentation website for Sonic Pi, in collaboration with @ethancrawford and @samaaron.
 
 ### 🖼️ Stuff I've done
 #### Sonic Pi
