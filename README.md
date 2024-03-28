@@ -1,15 +1,13 @@
 ## Hi there 👋
+[Website](https://sunderb.me)
 
-### 🔭 I’m currently working on...
-* Staying sane and healthy
-* Studies
+### My main projects
+* [cluster-tool](https://github.com/SunderB/cluster-tool) - A tool for analysing the initial mass functions of clusters in n-body simulations (Python)  
+* [sb-atom-sonic-pi](https://github.com/sunderb/sb-atom-sonic-pi) - An Atom package to interact with Sonic Pi (Javascript)
+* [sonic-pi-js-api](https://github.com/sunderb/sonic-pi-js-api) - An experimental JS API for the Sonic Pi server (Javascript)
+* [sonic-pi-phoenix-website](https://github.com/sunderb/sonic-pi-phoenix-website) - A prototype for a new documentation website for Sonic Pi, in collaboration with @ethancrawford and @samaaron. (Elixir/HTML/JS)
 
-### 🎨 Main Projects
-* [sb-atom-sonic-pi](https://github.com/sunderb/sb-atom-sonic-pi) - An Atom package to interact with Sonic Pi
-* [sonic-pi-js-api](https://github.com/sunderb/sonic-pi-js-api) - An experimental JS API for the Sonic Pi server
-* [sonic-pi-phoenix-website](https://github.com/sunderb/sonic-pi-phoenix-website) - A prototype for a new documentation website for Sonic Pi, in collaboration with @ethancrawford and @samaaron.
-
-### 🖼️ Stuff I've done
+### Contributions to other projects
 #### Sonic Pi
 * Add a UI language option: [#2604](https://github.com/sonic-pi-net/sonic-pi/pull/2604)
 * Build system improvements: [#3132](https://github.com/sonic-pi-net/sonic-pi/pull/3132), [#3009](https://github.com/sonic-pi-net/sonic-pi/pull/3009)
